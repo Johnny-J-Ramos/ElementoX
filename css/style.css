@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+@font-face {
+  font-family: 'Jost-Regular';
+  src: url('public/font/Jost-Regular.ttf');
+  font-family: 'Jost-Bold';
+  src: url('public/font/Jost-Bold.ttf');
+}
+
+.login-page {
+  background-image: url('img.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  bottom: 0;
+  color: black;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-size: cover;
+}
+
+#formulario {
+  background: rgba(250, 149, 54, 0.32);
+  border-radius: 22px;
+}
+
+.btn-item {
+  padding: 10px 5px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: none;
+  background: #8c1e00;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+}

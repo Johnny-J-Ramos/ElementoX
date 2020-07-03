@@ -40,7 +40,7 @@ trabalhar em cima das personas atendidas pela empresa Cabify. Para tal, somos di
 
 ## Deploy da Aplicação :dash:
 
-> Em breve
+> https://motoristaorganizado.com.br/
 
 ## Linguagens, dependencias e libs utilizadas :books:
 

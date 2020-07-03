@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+@font-face {
+  font-family: 'Jost-Regular';
+  src: url('public/font/Jost-Regular.ttf');
+  font-family: 'Jost-Bold';
+  src: url('public/font/Jost-Bold.ttf');
+}
+
+.login-page
+{
+    background-image: url('img.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+}
+
+.card-body{
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 22px;
+}
+
+
+
+.btn-group-lg>.btn, .btn-lg {
+    margin-top: 50px;
+    border-radius: 11px;
+    font-weight:bold;
+
+}
+
+.card-text:last-child {
+    margin-top: 50px;
+}
